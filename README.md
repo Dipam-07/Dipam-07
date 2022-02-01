@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg)]
 <h1 align="center">Hi 👋, I'm Dipam</h1>
 <h3 align="center">A Passionate Data Science & Deep Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
