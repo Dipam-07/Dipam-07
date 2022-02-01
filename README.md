@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipam&label=Profile%20views&color=0e75b6&style=flat" alt="dipam" /> </p>
 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **ML,DL&AI**
 
 - 💬 talk to me about **data,data & data**
 
